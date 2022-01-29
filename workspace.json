@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "manager": "apps/manager",
-    "manager-e2e": "apps/manager-e2e"
+    "manager-e2e": "apps/manager-e2e",
+    "shared-ui": "libs/shared-ui"
   }
 }

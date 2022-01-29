@@ -1701,7 +1701,7 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nrwl/storybook@13.7.1":
+"@nrwl/storybook@13.7.1", "@nrwl/storybook@^13.7.1":
   version "13.7.1"
   resolved "https://registry.yarnpkg.com/@nrwl/storybook/-/storybook-13.7.1.tgz#858e6a964830bfa216bebc5da4471341c555876c"
   integrity sha512-jm9dEtji0ZOn8UU1rtXtjmz5weDGTs/PglHs33hKfjVTA6duYwfk3p3qGxbeWsDg49eDubKfcxOTJUN/w10Kzg==
